@@ -1,0 +1,20 @@
+PODS:
+  - DeepDiff (2.3.1)
+  - iOSDropDown (0.3.4)
+
+DEPENDENCIES:
+  - DeepDiff
+  - iOSDropDown
+
+SPEC REPOS:
+  trunk:
+    - DeepDiff
+    - iOSDropDown
+
+SPEC CHECKSUMS:
+  DeepDiff: e5ae6c50d0321568e4508cec5930b9f10bb293fc
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+
+PODFILE CHECKSUM: 42dbab202e5e2be6ccf01229768bd4b6dc9418a7
+
+COCOAPODS: 1.8.4
